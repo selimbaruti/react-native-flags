@@ -8,13 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/frostney/react-native-flags.git"
+    "url": "git+https://github.com/selimbaruti/react-native-flags.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/frostney/react-native-flags/issues"
+    "url": "https://github.com/selimbaruti/react-native-flags/issues"
   },
-  "homepage": "https://github.com/frostney/react-native-flags#readme"
+  "homepage": "https://github.com/selimbaruti/react-native-flags#readme"
 }
